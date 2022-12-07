@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section
+# Social proof section
 
 This project is from frontend mentor. [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
